@@ -63,6 +63,6 @@ This project demonstrates that **numbers alone don't tell the full story**. With
 
 ## 📎 Author
 
-**Wael Ahmed**  
+**Wael Albakri**  
 📧 waelalbakrii@gmail.com  
-💼 (https://www.linkedin.com/in/waelalbakrii/)
+💼 https://www.linkedin.com/in/waelalbakrii/
